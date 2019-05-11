@@ -1,38 +1,53 @@
-html {
-    font-family: 'Roboto', serif;
-}
-
-#tradingcard {
-    width: 300px;
-    padding: 10px;
-    border: 1px solid #d6d2d2;
-    box-shadow: 5px 5px rgba(189, 181, 181, 0.589);
-    background-color: rgb(247, 247, 247);
-}
-
-.title {
-    font-weight: bold;
-}
-
-.picture {
-    width: 300px;
-}
-
-#tradingcard-info {
-    margin: 0px;
-    padding: 10px;
-    border: 1px solid #d6d2d2;
-}
-
-.fact {
-    font-style: italic;
-}
-
-.list {
-    list-style: none;
-    padding: 0px;
-}
-
-.label {
-    font-weight: bold;
-}
+    html {
+        font-family: 'Roboto', serif;
+    }
+    
+    #tradingcard {
+        width: 300px;
+        padding: 10px;
+        border: 1px solid #d6d2d2;
+        box-shadow: 5px 5px rgba(189, 181, 181, 0.589);
+        background-color: antiquewhite;
+    }
+    
+    .title {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+    
+    .picture {
+        width: 300px;
+    }
+    
+    #tradingcard-info {
+        margin: 1px;
+        padding: 1px;
+        border: 1px solid #d6d2d2;
+    }
+    
+    .fact {
+        margin: 5px;
+        padding: 5px;
+        font-style: italic;
+        border: 1px solid #d6d2d2;
+        background-color: antiquewhite;
+    }
+    
+    .list {
+        list-style: none;
+        margin: 5px;
+        padding: 5px;
+        border: 1px solid #d6d2d2;
+        background-color: antiquewhite;
+    }
+    
+    .label {
+        font-weight: bold;
+    }
+    
+    p {
+        margin: 5px;
+        padding: 5px;
+        border: 1px solid #d6d2d2;
+        background-color: antiquewhite;
+    }
