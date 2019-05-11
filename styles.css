@@ -1,0 +1,38 @@
+html {
+    font-family: 'Roboto', serif;
+}
+
+#tradingcard {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #d6d2d2;
+    box-shadow: 5px 5px rgba(189, 181, 181, 0.589);
+    background-color: rgb(247, 247, 247);
+}
+
+.title {
+    font-weight: bold;
+}
+
+.picture {
+    width: 300px;
+}
+
+#tradingcard-info {
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #d6d2d2;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.list {
+    list-style: none;
+    padding: 0px;
+}
+
+.label {
+    font-weight: bold;
+}
